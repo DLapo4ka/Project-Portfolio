@@ -6,7 +6,7 @@ University: Higher School of Economics, Moscow, Russian Federation
 
 Faculty: Faculty of Computer Science
 
-Educational Programme: Bachelor's degree program in Data Science and Business Analytics
+Educational Program: Bachelor's degree program in Data Science and Business Analytics
 
 My projects:
 - **Analysis of Chosen Dataset**, university project for 1st course "Programming" subject, made on Python
